@@ -1,4 +1,4 @@
-This read me is Colection of data from Start.java file.
+This read me is Colection of data from Start.java  and calcultor-javafile.
 
 ##izvestaj za cloc.
 
