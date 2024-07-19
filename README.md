@@ -31,7 +31,7 @@ Add a private constructor to hide the implicit public one.                      
 Rename method "ToString" to prevent any misunderstanding/clash with method "toString" defined in superclass "java.lang.Object".       Calculator-java [ln 18 col 30]   sonarlint
 Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.                                                        Calculator-java [ln 18 col 30]   sonarlint
 Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.                                                        Calculator-java [ln 24 col 26]   sonarlint
-Immediately return this expression instead of assigning it to the temporary variable "textResult".                                    Calculator-java [ln 70 col 29]   sonarlint
+Immediately return this expression instead of assigning it to the temporary variable "test result".                                    Calculator-java [ln 70 col 29]   sonarlint
 Rename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.                                                        Calculator-java [ln 74 col 25]   sonarlint
 Remove this redundant jump.                                                                                                           Calculator-java [ln 183 col 13]  sonarlint
 ###Start.java
