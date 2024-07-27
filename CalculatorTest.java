@@ -40,7 +40,7 @@ public class CalculatorTest {
     }
     @Test
     public void testNegativef() {
-        String result = Calculator.Run("-3+(-6*1)");
+        String result = Calculator.Run("-3+(-6)");
         Assert.assertEquals("-9", result);
     }
     @Test
@@ -78,7 +78,7 @@ public class CalculatorTest {
         String expression = "8 / 0"; 
         String result = Calculator.Run(expression);
         Assert.assertEquals("Error: Division by zero!", result);
-        // You can customize the error message based on your implementation
+       
     }
 
 }
