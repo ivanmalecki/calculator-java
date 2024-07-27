@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalculatorTest",
+            "request": "launch",
+            "mainClass": "CalculatorTest",
+            "projectName": "calculator-java_7ef532b7"
+        },
+        {
+            "type": "java",
             "name": "Start",
             "request": "launch",
             "mainClass": "Start",
